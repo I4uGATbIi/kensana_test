@@ -1,4 +1,4 @@
-# kensana_test
+# Test task to Kensana
 This was made as test for employment process
 The purpose of this assignment is to test your knowledge of C# development and Unity development.
 The test task is the development of an application in Unity and C# that meets the following requirements:
